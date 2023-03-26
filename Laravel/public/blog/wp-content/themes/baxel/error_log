@@ -1,0 +1,1 @@
+[31-May-2018 09:40:15 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saveecou/public_html/blog/wp-content/themes/baxel/index.php on line 1
